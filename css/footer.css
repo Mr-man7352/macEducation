@@ -1,0 +1,26 @@
+
+
+.mfooter{
+    margin: 0;
+    padding: 100px 0 50px 0;
+    background: #01010b;
+    color: #c0c0c7;
+}
+
+.mfooter .row {
+
+    text-align: center;
+
+}
+
+
+.mfooter .row .title {
+
+    position: relative;
+    font-size: 20px;
+    line-height: 1;
+    color: #fff;
+    font-weight: 400;
+    z-index: 2;
+
+}
